@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/top.svg"/>
 
-<img src="https://raw.githubusercontent.com/BabyMedley/BabyMedley/master/pain.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/BabyMedley/BabyMedley/master/pain.gif"/>
 
 
 <h1 align="center">Hello, I'm Nerd.</h1>
