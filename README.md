@@ -3,8 +3,8 @@
 <img align="right" src="https://raw.githubusercontent.com/BabyMedley/BabyMedley/master/pain.gif"/>
 
 
-<h1 align="center">Hello, I'm Nerd.</h1>
-<h3 align="center">I'm a mediocre programmer with an affinity for data.</h3>
+<h1 align="left">Hello, I'm Nerd.</h1>
+<h3 align="left">I'm a mediocre programmer with an affinity for data.</h3>
 
 <p align="center">
 
