@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- projects: `Doing some Data Science projects`
+<h1 align="center">- Projects: `Doing some Data Science projects`</h1>
 </p>
 <h1 align="center">    </h1>
 <h1 align="center">Statistics</h1>
