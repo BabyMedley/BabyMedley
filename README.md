@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/top.svg"/>
+
 <img align="center" src="https://raw.githubusercontent.com/BabyMedley/BabyMedley/master/pain.gif"/>
 
 <h1 align="center">Hello, I'm Nerd.</h1>
