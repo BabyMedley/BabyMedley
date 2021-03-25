@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<h1 align="left"> Currently doing some Data Science projects. <3</h1>
+<h1 align="left"> Currently making a bot and hosting with AWS. <3</h1>
 </p>
 <h1 align="center">    </h1>
 <h1 align="center">Statistics</h1>
