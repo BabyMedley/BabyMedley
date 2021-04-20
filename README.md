@@ -13,11 +13,11 @@
 <h1 align="center">    </h1>
 <h1 align="center">Statistics</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BabyMedley&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="BabyMedley" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RTX-3080&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="RTX-3080" /></p>
 
 <p></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyMedley&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="BabyMedley"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTX-3080&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="RTX-3080"/>
 
 
 <img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/bottom.svg"/>
