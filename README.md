@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<h1 align="left"> Currently messing around with python. <3</h1>
+<h1 align="left"> Currently messing around with React.js. <3</h1>
 </p>
 <h1 align="center">    </h1>
 <h1 align="center">Statistics</h1>
