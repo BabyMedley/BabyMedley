@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/campsites/campsites/master/pain.gif"/>
 
 
-<h1 align="left">Hello, I'm Nerd.</h1>
+<h1 align="left">Hello, I'm jbh.</h1>
 <h3 align="left">I'm a mediocre programmer with an affinity for data and security.</h3>
 
 <p align="center">
