@@ -4,8 +4,19 @@
 
 
 <h1 align="left">Hello, I'm jbh.</h1>
-<h3 align="left">I'm a mediocre programmer with an affinity for data and security.</h3>
-
+<h3 align="left">Some technologies I use: </h3>
+<i className="devicon-react-original"></i>
+<i className="devicon-jquery-plain"></i>
+<i className="devicon-html5-plain"></i>
+<i className="devicon-css3-plain"></i>
+<i className="devicon-sass-original"></i>
+<i className="devicon-javascript-plain"></i>
+<i className="devicon-nodejs-plain"></i>
+<i class="devicon-csharp-plain"></i>
+<i className="devicon-python-plain"></i>
+<i className="devicon-vscode-plain"></i>
+<i className="devicon-github-original"></i>
+<i className="devicon-heroku-original"></i>
 <p align="center">
 
 <h1 align="left"> Currently learning backend.</h1>
