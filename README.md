@@ -6,7 +6,7 @@
 <h1 align="center">currently learning backend.</h1>
 <h1 align="center">statistics</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1jbh&bg_color=5000ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=
 5000ca&title_color=ffffff&icon_color=ffffff" alt="stats" />
