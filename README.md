@@ -6,8 +6,11 @@
 <h3 align="center">currently learning backend.</h3>
 </p>
 
+<p align="center">
 [![jbh's gitHub stats](https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+ </p>
+ 
 <img src="wave.svg">
