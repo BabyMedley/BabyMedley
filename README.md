@@ -6,8 +6,8 @@
 <h1 align="center">currently learning backend.</h1>
 <h1 align="center">statistics</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![jbh's gitHub stats](https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="wave.svg">
