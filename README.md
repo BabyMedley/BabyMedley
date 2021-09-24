@@ -1,6 +1,6 @@
 <img src="wave2.svg">
 
-<h1 align="center">hello, I'm jbh.</h1>
+<h1 align="center">hello, i'm jbh.</h1>
 <p>
 <h3 align="center">i know react.js, html, css, js, jquery, python, and C#. </h3>
 <h3 align="center">currently learning backend.</h3>
