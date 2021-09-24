@@ -6,9 +6,10 @@
 <h3 align="center">currently learning backend.</h3>
 </p>
 
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff" />
-
+</p>
 
 <img src="wave.svg">
