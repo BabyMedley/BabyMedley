@@ -11,6 +11,6 @@
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1jbh&show_icons=true&text_color=ffffff&bg_color=5000ca&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
- </p>
+</p>
  
 <img src="wave.svg">
