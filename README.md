@@ -2,8 +2,8 @@
 
 <h1 align="center">hello, i'm jbh.</h1>
 <p>
-<h3 align="center">i know react.js, html, css, js, jquery, python, and C#. </h3>
-<h3 align="center">currently learning backend.</h3>
+<h3 align="center">i'm a web developer, game developer, and pixel artist</h3>
+<h3 align="center">currently focusing on game dev.</h3>
 </p>
 
 <p>
